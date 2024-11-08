@@ -1,0 +1,10 @@
+# Ignorer les dossiers de checkpoints de notebooks Jupyter
+.ipynb_checkpoints/
+
+# Ignorer les fichiers de données brutes
+data/raw_data/
+
+# Ignorer les fichiers de dépendances spécifiques (optionnel selon l'environnement)
+.env
+__pycache__/
+*.pyc
